@@ -1,0 +1,151 @@
+
+
+
+    
+
+.flexbox-container{
+    display:flex;
+    flex-direction:row;
+    position:relative;
+    left: 15rem;
+    top: 5rem;
+    
+    
+}
+
+
+.bg{
+    background-color: hsl(31, 77%, 52%);
+    height: 30rem;
+    width: 20rem;
+    
+    
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+.para{
+    justify-items: center;
+    position: relative;
+    top: 0rem;
+    
+    line-height: 1.5;
+    width:55%;
+}
+.bg1{
+    background-color: hsl(184, 100%, 22%);
+    height: 30rem;
+    width: 20rem;
+    
+    
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+.para1{
+    justify-items: center;
+    position: relative;
+    top: 0rem;
+    
+    line-height: 1.5;
+    width:55%;
+}
+.bg2{
+    background-color: hsl(179, 100%, 13%) ;
+    height: 30rem;
+    width: 20rem;
+    
+    
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+.para2{
+    justify-items: center;
+    position: relative;
+    top: 0rem;
+    
+    line-height: 1.5;
+    width:55%;
+}
+.buttonbox{
+    width: 10rem;
+    height: 3rem;
+    
+    
+}
+.buttonbox1{
+    width: 10rem;
+    height: 3rem;
+}
+.buttonbox2{
+    width: 10rem;
+    height: 3rem;
+}
+.learn-more{  /*firstbox*/
+    color:hsl(31, 77%, 52%);
+}
+.learnmore1{  /*firstbox*/
+    position: relative;
+    top: 5rem;
+    border-radius: 50rem;
+    padding: 0.2rem;
+    width:9rem;
+    background-color: white;
+    
+    
+}
+.learnmore1:hover{ /*firstbox*/
+    color:white;
+    border: 2px solid white;
+    background-color:hsl(31, 77%, 52%); ;
+}
+.learn-more:hover{ /*firstbox*/
+    color:white;
+}
+.learn-more1{   /*secondbox*/
+    color:hsl(184, 100%, 22%);
+}
+.learnmore2{   /*secondbox*/
+    position: relative;
+    top: 5rem;
+    border-radius: 50rem;
+    padding: 0.2rem;
+    width:9rem;
+    background-color: white;
+}
+.learn-more1:hover{ /*secondbox*/
+    color:white;
+}
+.learnmore2:hover{ /*secondbox*/
+    color:white;
+    border: 2px solid white;
+    background-color: hsl(184, 100%, 22%);
+}
+.learn-more2{
+    color: hsl(179, 100%, 13%);
+}
+.learn-more2:hover{
+    color:white;
+}
+.learnmore3{
+    position: relative;
+    top: 5rem;
+    border-radius: 50rem;
+    padding: 0.2rem;
+    width:9rem;
+    background-color: white;
+
+}
+.learnmore3:hover{
+    color:white;
+    border: 2px solid white;
+    background-color:  hsl(179, 100%, 13%);
+}
+P{
+    color:white;
+    font-family: 'Lexend Deca', sans-serif;
+}
+h1{
+    color:white;
+    font-family: 'Big Shoulders Display', cursive;
+    
+}
+
